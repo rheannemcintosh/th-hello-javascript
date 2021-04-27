@@ -21,6 +21,6 @@ The inital work was completed by following along the with the Treehouse tutorial
 - **Language:** JavaScript
 - **Author:** Rheanne McIntosh
 - **100 Days of Treehouse:** Day 13 / 100
-- **Treehouse Tutorial:** [JavaScript Numbers](https://teamtreehouse.com/library/javascript-basics)
+- **Treehouse Tutorial:** [JavaScript Basics](https://teamtreehouse.com/library/javascript-basics)
 
 If you have any questions or can suggest any improvements, please let me know!
